@@ -1,6 +1,6 @@
 # Project Name
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project integrated with firebase features
 
 ## Features
 
@@ -10,11 +10,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Firebase Roles
 
-This project uses Firebase for authentication and database management. The following Firebase roles are utilized:
+This project uses Firebase for authentication. The following Firebase roles are utilized:
 
 - **Authentication**: Manages user sign-in and sign-up.
-- **Firestore Database**: Stores user data and other application data.
-- **Firebase Functions**: Handles server-side logic and API routes.
 
 ## Getting Started
 
