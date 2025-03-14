@@ -14,6 +14,10 @@ This project uses Firebase for authentication. The following Firebase roles are 
 
 - **Authentication**: Manages user sign-in and sign-up.
 
+## Demo Video
+
+[Watch the demo video](nextjs-firebase.mp4)
+
 ## Getting Started
 
 ### Prerequisites
